@@ -7,8 +7,3 @@ Project Scope:
 > Difficulty selector
 > User database
 > PVP support 
-
-Discord tag: Fammy player#9600
-Instagram ID: abhishek_airan_
-
-If this code helps you make me know :)
